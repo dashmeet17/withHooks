@@ -1,0 +1,31 @@
+{
+  "name": "nextjs-redux-react-hooks",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "concurrently --kill-others \"next\" \"node server.js\"",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "axios": "^0.18.0",
+    "cors": "^2.8.4",
+    "express": "^4.17.0",
+    "mongoose": "^5.5.9",
+    "next": "latest",
+    "react": "^16.7.0",
+    "react-dom": "^16.7.0",
+    "react-redux": "6.0.1",
+    "react-spinners": "^0.5.4",
+    "react-table": "^6.8.2",
+    "react-toastify": "^5.1.1",
+    "redux": "4.0.1",
+    "redux-react-hook": "3.2.1",
+    "redux-thunk": "2.3.0"
+  },
+  "devDependencies": {
+    "concurrently": "^4.1.0"
+  },
+  "license": "ISC",
+  "keywords": [],
+  "description": ""
+}
