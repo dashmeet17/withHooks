@@ -10,7 +10,7 @@
     "axios": "^0.18.0",
     "cors": "^2.8.4",
     "express": "^4.17.0",
-    "mongoose": "^5.5.9",
+    "mongoose": "^5.7.5",
     "next": "latest",
     "react": "^16.7.0",
     "react-dom": "^16.7.0",
